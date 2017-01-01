@@ -1,0 +1,26 @@
+h1 { 
+			color:#ffffff;
+            font-size: 1.5em;
+			font-weight: bold;			
+			}
+		  h2 { 
+			color:#4c008d;
+            font-size: 1.2em;
+			font-weight: bold;
+           	}
+		h3 { 
+			color:#0c5c2e;
+            font-size: 1.1em;
+			font-weight: bold;
+           	}
+		  .content { 
+			color:#0c0c0c;
+            line-height:175%;
+			font-size:1.1em;
+			text-align: justify;
+		  }
+		  .Headera{
+		  background-color:#4f0e2f;
+		  padding: 1em;
+		  text-align: center;
+		  }
